@@ -17,14 +17,14 @@
 
 Donut Screens
 <div align="center">
-  <img src="https://i.ibb.co/35hrS5sT/donut-1.jpg"  />
-  <img src="https://i.ibb.co/4gVDF3Zw/donut-2.jpg"  /> 
-  <img src="https://i.ibb.co/Pv0kPnG1/donut-3.jpg"  />
+  <img src="https://i.ibb.co/35hrS5sT/donut-1.jpg"  width="200" />
+  <img src="https://i.ibb.co/4gVDF3Zw/donut-2.jpg"  width="200" /> 
+  <img src="https://i.ibb.co/Pv0kPnG1/donut-3.jpg"  width="200" />
 
 </div>
 
 ## App Demo Videos
-| <video src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"/> |
+| <video src="https://raw.githubusercontent.com/khaatteerr/Donut-Assets/refs/heads/main/demo%20donuts.mp4" type="video/mp4"/> |
 ## Built With 🛠
 
 *  [Kotlin](https://kotlinlang.org/) 
