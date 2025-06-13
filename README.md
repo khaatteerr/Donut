@@ -24,7 +24,7 @@ Donut Screens
 </div>
 
 ## App Demo Videos
-| <video src="https://raw.githubusercontent.com/khaatteerr/Donut-Assets/refs/heads/main/demo%20donuts.mp4" type="video/mp4"/> |
+| <video src="https://github.com/user-attachments/assets/af22540b-9ab2-42ae-8d93-5345d019ffa2" type="video/mp4"/> |
 ## Built With 🛠
 
 *  [Kotlin](https://kotlinlang.org/) 
