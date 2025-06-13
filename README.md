@@ -17,9 +17,9 @@
 
 Donut Screens
 <div align="center">
-  <img src="https://i.ibb.co/35hrS5sT/donut-1.jpg" width="300" />
-  <img src="https://i.ibb.co/4gVDF3Zw/donut-2.jpg" width="300" /> 
-  <img src="https://i.ibb.co/Pv0kPnG1/donut-3.jpg" width="300" />
+  <img src="https://i.ibb.co/35hrS5sT/donut-1.jpg"  />
+  <img src="https://i.ibb.co/4gVDF3Zw/donut-2.jpg"  /> 
+  <img src="https://i.ibb.co/Pv0kPnG1/donut-3.jpg"  />
 
 </div>
 
